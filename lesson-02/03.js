@@ -5,7 +5,6 @@ const giveMeRightNumbers = (value1, value2, maximum) => {
       console.log('Something wrong!');
    }
 }
-// giveMeRightNumbers(100, 100, 200);
-// giveMeRightNumbers(200, 10, 20);
-console.log('Something wrong!');
+giveMeRightNumbers(200, 10, 20);
+giveMeRightNumbers(100, 100, 200);
 
