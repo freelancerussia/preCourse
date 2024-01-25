@@ -8,5 +8,5 @@ let newPassport = {
    name: "Ivan"
 }
 
-console.log(passport.name);
 console.log(newPassport.name);
+console.log(passport.name);
