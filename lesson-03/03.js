@@ -3,4 +3,4 @@ const fruits = ["яблоко", "банан", "апельсин", "манго", 
 // fruits.slice(0, 1)
 // fruits.slice(-2)
 
-console.log(fruits.slice(1, fruits.length - 3));
+console.log(fruits.slice(1, fruits.length - 2));
